@@ -1,0 +1,4 @@
+1,5 Star,5,95
+2,Cream Roll,10,50
+3,Cake,100,0
+4,Advance Compact,10,990

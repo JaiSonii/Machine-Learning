@@ -1,0 +1,2 @@
+This is a new file and some content is written into it.A new line is added to the txt file via input from user.
+This is a new line added.
